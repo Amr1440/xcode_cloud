@@ -14,7 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		C57F038828C8A3C90045DFF3 /* xcode-cloud.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "xcode-cloud.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C57F038828C8A3C90045DFF3 /* cloudcloud.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = cloudcloud.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C57F038B28C8A3C90045DFF3 /* xcode_cloudApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = xcode_cloudApp.swift; sourceTree = "<group>"; };
 		C57F038D28C8A3C90045DFF3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C57F038F28C8A3CA0045DFF3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -43,7 +43,7 @@
 		C57F038928C8A3C90045DFF3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C57F038828C8A3C90045DFF3 /* xcode-cloud.app */,
+				C57F038828C8A3C90045DFF3 /* cloudcloud.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -84,7 +84,7 @@
 			);
 			name = "xcode-cloud";
 			productName = "xcode-cloud";
-			productReference = C57F038828C8A3C90045DFF3 /* xcode-cloud.app */;
+			productReference = C57F038828C8A3C90045DFF3 /* cloudcloud.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -280,8 +280,8 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.moenergy.mytaqah;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.moenergy.test;
+				PRODUCT_NAME = cloudcloud;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -309,8 +309,8 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.moenergy.mytaqah;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.moenergy.test;
+				PRODUCT_NAME = cloudcloud;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
